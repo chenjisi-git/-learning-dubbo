@@ -1,7 +1,7 @@
 # -learning-dubbo
 ## **题目1:**
 
-![image-20201105014231306](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014231306.png)
+![1](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/1.png)
 
 
 
