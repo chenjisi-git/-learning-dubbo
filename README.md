@@ -7,13 +7,13 @@
 
 ## 题目2:**
 
-![image-20201105014352775](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014352775.png)
+![2](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/2.png)
 
-![image-20201105014458133](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014458133.png)
+![3](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/3.png)
 
-![image-20201105014551844](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014551844.png)
+![4](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/4.png)
 
-![image-20201105014706769](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014706769.png)
+![5](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/5.png)
 
-![image-20201105014750893](C:\Users\我儿子是易烊千玺\AppData\Roaming\Typora\typora-user-images\image-20201105014750893.png)
+![6](https://github.com/chenjisi-git/-learning-dubbo/blob/main/img/6.png)
 
